@@ -1,0 +1,6 @@
+@embarcapi_backend_HostAddress = http://localhost:5072
+
+GET {{embarcapi_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
